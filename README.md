@@ -12,7 +12,7 @@
 
 ## 📝 Descripción del Proyecto
 
-ScreenMatch es una aplicación diseñada para buscar series y episodios, consultar información variada y gestionar datos de series a través de un frontend interactivo. La aplicación permite guardar series en una base de datos y consultar detalles mediante una interfaz de usuario.
+ScreenMatch es una aplicación diseñada para buscar series y episodios, consultar información variada y gestionar datos de series a través de un frontend interactivo. La aplicación permite guardar series en una base de datos y consultar detalles mediante una interfaz de consola.
 
 ## 📋 Funcionalidades
 
