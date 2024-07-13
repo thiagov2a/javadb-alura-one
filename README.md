@@ -3,7 +3,7 @@
 </h4>
 
 <h1 align="center">
-  💻 ScreenMatch Frases
+  🎞️ ScreenMatch Frases
 </h1>
 
 <p align="center">
