@@ -12,7 +12,7 @@
 
 ## 📝 Descripción del Proyecto
 
-Este proyecto forma parte del curso de Java y Spring Boot del programa Alura + ONE. Está diseñado para crear una aplicación con una interfaz de usuario en frontend que muestra frases aleatorias de películas y series, almacenadas en una base de datos interna.
+ScreenMatch Frases es una aplicación con una interfaz de usuario en frontend que muestra frases aleatorias de películas y series, almacenadas en una base de datos interna.
 
 ## 📋 Funcionalidades
 
