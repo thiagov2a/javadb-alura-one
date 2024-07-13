@@ -3,41 +3,53 @@
 </h4>
 
 <h1 align="center">
-  💻 Desafio Sprint 1 - [Nombre del Proyecto]
+  💻 ScreenMatch
 </h1>
 
 <p align="center">
-  Este documento contiene el desarrollo y la documentación del primer desafío del programa Alura + ONE.
+  Este documento contiene el desarrollo y la documentación del proyecto ScreenMatch del programa Alura + ONE.
 </p>
 
 ## 📝 Descripción del Proyecto
 
-Este proyecto es un desafío práctico del curso de Java y Spring Boot del programa Alura + ONE. El objetivo es desarrollar una aplicación que cumpla con los requisitos del sprint.
+ScreenMatch es una aplicación diseñada para buscar series y episodios, consultar información variada y gestionar datos de series a través de un frontend interactivo. La aplicación permite guardar series en una base de datos y consultar detalles mediante una interfaz de usuario.
 
 ## 📋 Funcionalidades
 
-- **[Funcionalidad 1]**: Descripción de la primera funcionalidad.
-- **[Funcionalidad 2]**: Descripción de la segunda funcionalidad.
-- **[Funcionalidad 3]**: Descripción de la tercera funcionalidad.
+- **Búsqueda de Series**: Permite buscar series a través de una API y consultar detalles.
+- **Gestión de Episodios**: Consulta y muestra episodios de una serie seleccionada.
+- **Base de Datos**: Guarda información de series y episodios en una base de datos para su consulta futura.
+- **Interfaz de Usuario**: Incluye un frontend en `src/main/resources` que facilita la interacción con el usuario.
 
 ## 📁 Estructura del Proyecto
 
-- **`src`**: Contiene el código fuente de la aplicación.
+- **`src/main/java/com/thiagov2a/screenmatch`**: Contiene el código fuente de la aplicación dividido en:
+  - **`config`**: Configuración de la aplicación.
+  - **`controller`**: Controladores de la aplicación.
+  - **`dto`**: Objetos de transferencia de datos.
+  - **`main`**: Clase principal de la aplicación.
+  - **`model`**: Modelos de datos.
+  - **`repository`**: Repositorios para acceso a datos.
+  - **`service`**: Servicios de la aplicación.
+- **`src/main/resources`**: Contiene los archivos del frontend y recursos estáticos, incluyendo:
+  - **`static`**: Archivos estáticos como CSS y JavaScript.
+  - **`templates`**: Plantillas HTML.
+  - **`application.properties`**: Configuración de la aplicación.
 - **`pom.xml`**: Archivo de configuración de Maven.
-- **`.gitignore`**: Configuración de archivos ignorados por Git.
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
 1. **Clonar el Repositorio**: `git clone https://github.com/tu-usuario/javadb-alura-one.git`
 2. **Navegar al Directorio**: `cd javadb-alura-one`
-3. **Ejecutar el Proyecto**: Utilice su IDE favorito para compilar y ejecutar la aplicación.
+3. **Ejecutar el Proyecto**: Utilice su IDE favorito para compilar y ejecutar la aplicación. Asegúrese de que la base de datos está configurada correctamente y que los recursos en `src/main/resources` están accesibles.
 
 ## 🛠 Tecnologías Utilizadas
 
 - **Java**: 💻 Lenguaje de programación principal.
-- **Spring Boot**: 🚀 Framework utilizado.
+- **Spring Boot**: 🚀 Framework utilizado para desarrollar la aplicación.
 - **Maven**: 📦 Sistema de gestión de proyectos.
+- **HTML/CSS/JavaScript**: 🌐 Interfaz de usuario en el frontend proporcionada por Alura.
 
 <p align="center">
-  Alura + ONE | Desafio Sprint 1
+  Alura + ONE | ScreenMatch
 </p>
