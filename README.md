@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Este documento contiene el desarrollo y la documentación del proyecto ScreenMatch de JavaDB del programa Alura + ONE.
+  Este documento contiene el desarrollo y la documentación del proyecto ScreenMatch de Java con base de datos del programa Alura + ONE.
 </p>
 
 ## 📝 Descripción del Proyecto
