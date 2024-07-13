@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Este documento contiene el desarrollo y la documentación del tercer proyecto del programa Alura + ONE.
+  Este documento proporciona una visión detallada del desarrollo y la documentación del proyecto ScreenMatch Frases, parte del curso de Java y Spring Boot con integración de base de datos en el programa Alura + ONE.
 </p>
 
 ## 📝 Descripción del Proyecto
