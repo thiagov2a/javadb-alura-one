@@ -48,6 +48,7 @@ ScreenMatch es una aplicación diseñada para buscar series y episodios, consult
 - **Java**: 💻 Lenguaje de programación principal.
 - **Spring Boot**: 🚀 Framework utilizado para desarrollar la aplicación.
 - **Maven**: 📦 Sistema de gestión de proyectos.
+- **PostgreSQL**: 🗄️ Sistema de gestión de bases de datos.
 - **HTML/CSS/JavaScript**: 🌐 Interfaz de usuario en el frontend proporcionada por Alura.
 
 <p align="center">
